@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>sureshfirstnexus</name>
-	      <url>http://13.126.115.250:8081/repository/mavennexus-release/</url>
+	      <url>http://13.126.115.250:8081/repository/suresh-rel/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>sureshfirstnexus</name>
-	      <url>http://13.126.115.250:8081/repository/mavennexus-snapshot/</url>
+	      <url>http://13.126.115.250:8081/repository/suresh-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
